@@ -40,7 +40,7 @@ This project replicates the core empirical results of Card and Krueger (1994), i
 
 ## Data
 
-The dataset used in this replication is sourced from Card and Krueger's original survey of 410 fast-food restaurants. The public-use dataset is available through the [Card and Krueger data archive](https://data.nber.org/minimum-wage/) hosted by the National Bureau of Economic Research (NBER).
+The dataset used in this replication is sourced from Card and Krueger's original survey of 410 fast-food restaurants. The public-use dataset is available through the [Card and Krueger data archive](https://davidcard.berkeley.edu/data_sets.html) hosted by the National Bureau of Economic Research (NBER).
 
 ### Key Variables
 
