@@ -79,8 +79,8 @@ install.packages(c("tidyverse", "fixest", "modelsummary", "haven"))
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/card-krueger-replication.git
-cd card-krueger-replication
+git clone https://github.com/belokonr/ECON5200-Applied-Data-Analytics-in-Economics/Project
+
 
 # Run the full analysis pipeline
 Rscript code/01_clean_data.R
