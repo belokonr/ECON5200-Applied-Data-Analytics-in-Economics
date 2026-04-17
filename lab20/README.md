@@ -13,7 +13,7 @@
 
 **Key Findings:**
 
-- The GDP series exhibits I(1) behavior globally, with PELT-identified structural breaks near [YOUR DATES] delineating regimes with distinct trend dynamics.
+- The GDP series exhibits I(1) behavior globally, with PELT-identified structural breaks delineating regimes with distinct trend dynamics.
 - Per-regime stationarity tests confirm that the unit root persists within individual regimes, suggesting the breaks reflect shifts in drift or trend slope rather than transitions between stationary and non-stationary behavior.
 - Electricity demand decomposes cleanly under MSTL, with the daily cycle dominating variance and the weekly cycle capturing workday/weekend load differentials.
 - Bootstrap-derived confidence bands on the GDP trend reveal meaningful uncertainty during recessionary periods, underscoring the limitations of point-estimate trend extraction.
